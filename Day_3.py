@@ -1,4 +1,6 @@
 """
+這道題目曾出現在 Facebook 的面試中。
+
 給定 Binary Tree 的根節點 root, 找出此 Binary Tree 的最大寬度。
     Binary Tree 的寬度定義為: 在某個 tree level 中，最左邊的節點至最右邊的節點的距離
     若中間包含空節點 (null node) 則必須將空節點也納入距離的計算
